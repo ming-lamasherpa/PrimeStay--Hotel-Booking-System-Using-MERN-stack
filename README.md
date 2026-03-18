@@ -30,4 +30,4 @@ Install Express package:
 
 ##  Setup for clone:
 1. **Clone the repository**
-git clone: [https://github.com/ming-lamasherpa/PrimeStay---Hotel-BookingSystem.git]
+git clone: [https://github.com/ming-lamasherpa/PrimeStay--Hotel-Booking-System-Using-MERN-stack.git]
