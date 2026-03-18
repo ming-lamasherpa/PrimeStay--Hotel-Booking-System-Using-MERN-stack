@@ -1,6 +1,6 @@
 # PrimeStay – Hotel Booking System 🏨
 
-PrimeStay is a modern **Hotel Booking System frontend** built using **React.js** and **Tailwind CSS**.  
+PrimeStay is a modern **Hotel Booking System** built using **MERN Stack**.  
 The project provides a clean and responsive user interface for browsing hotels, searching destinations, and exploring featured rooms.
 
 ## Frontend:
